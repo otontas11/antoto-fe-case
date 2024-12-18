@@ -1,0 +1,12 @@
+.font-weight-bold {
+    font-weight: bold;
+}
+
+.bi-three-dots {
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+.orange-color .bi-three-dots {
+    color: rgb(236, 24, 24) !important;
+}

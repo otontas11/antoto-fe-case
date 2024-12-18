@@ -1,0 +1,21 @@
+<div class="charge-card card @DefaultClass" style="width: 180px;">
+    <div class="card-body">
+        <i class="@IconClass"></i>
+        <h6 class="card-subtitle mb-2 text-muted">@Title</h6>
+        <h6 class="card-subtitle mb-2 text-muted">@Subtitle</h6>
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public string IconClass { get; set; } = "bi bi-ev-station-fill"; 
+
+    [Parameter]
+    public string Title { get; set; } = "Ortalama Şarj Sıklığı";
+
+    [Parameter]
+    public string Subtitle { get; set; } = "0 / Hafta"; 
+    
+    [Parameter]
+    public string DefaultClass { get; set; } = ""; 
+}

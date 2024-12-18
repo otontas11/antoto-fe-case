@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'AmsiPro-Regular';
+    src: url('/fonts/AmsiPro-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'AmsiPro-Black';
+    src: url('/fonts/AmsiPro-Black.ttf') format('truetype');
+}
+
+body {
+    font-family: 'AmsiPro-Regular', sans-serif;
+}
+
+.charge-card.swiper-slide {
+    width: 200px !important;
+}
+
+h1, h2, h3, h4, h5, h6, .black {
+  font-family: 'AmsiPro-Black', sans-serif;
+}
+
+.orange-color {
+  color: #FF5515;
+}
+ 
+.white-color {
+  color: #fff;
+}
+ 

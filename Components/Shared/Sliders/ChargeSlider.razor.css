@@ -1,0 +1,40 @@
+.slide-content {
+  width: 100%;
+  overflow: hidden;
+}
+
+
+.swiper-wrapper {
+  display: flex;
+  flex-wrap: nowrap;
+  max-width: 800px;
+}
+
+.swiper-slide {
+  flex: 0 0 auto;
+}
+ 
+
+@media screen and (max-width: 768px) {
+  .slide-content {
+      margin: 0;
+  }
+
+  .swiper-navBtn {
+      display: none !important;
+  }
+
+  .swiper-wrapper {
+    display: flex;
+    flex-wrap: nowrap;
+    width: auto;
+  }
+  
+
+}
+
+.swiper-button-next[style*="pointer-events: none"],
+.swiper-button-prev[style*="pointer-events: none"] {
+  opacity: 0.3;
+  cursor: not-allowed;
+}

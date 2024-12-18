@@ -1,0 +1,65 @@
+﻿@page "/"
+
+<PageTitle>Home</PageTitle>
+
+<Accordion>
+    <BodyContent>
+      <ChargeSlider ChargeCards="@chargeCardData" />
+    </BodyContent>
+</Accordion>
+
+<FilterDropdown />
+
+@foreach(var item in billCardData){
+<BillCard Item="@item"/>
+}
+
+
+@code {
+    private string textInput = "Başlangıç metni"; 
+    private List<string> optionItems = new() { "Option 1", "Option 2", "Option 3" };
+ 
+    private List<ChargeCardModel> chargeCardData = new()
+    {
+        new ChargeCardModel { Icon = "bi bi-ev-station-fill", Title = "Ortalama Şarj Sıklığı", SubTitle = "5/Hafta" },
+        new ChargeCardModel { Icon = "bi bi-ev-station-fill", Title = "Ortalama Şarj Sıklığı", SubTitle = "2/Hafta" },
+        new ChargeCardModel { Icon = "bi bi-ev-station-fill", Title = "Ortalama Şarj Sıklığı", SubTitle = "4/Hafta" },
+        new ChargeCardModel { Icon = "bi bi-ev-station-fill", Title = "Ortalama Şarj Sıklığı", SubTitle = "3/Hafta" },
+        new ChargeCardModel { Icon = "bi bi-ev-station-fill", Title = "Ortalama Şarj Sıklığı", SubTitle = "8/Hafta" },
+        new ChargeCardModel { Icon = "bi bi-ev-station-fill", Title = "Ortalama Şarj Sıklığı", SubTitle = "12/Hafta" },
+        new ChargeCardModel { Icon = "bi bi-ev-station-fill", Title = "Ortalama Şarj Sıklığı", SubTitle = "8/Hafta" },
+        new ChargeCardModel { Icon = "bi bi-ev-station-fill", Title = "Ortalama Şarj Sıklığı", SubTitle = "2/Hafta" },
+
+    };
+    
+    private List<BillCardModel> billCardData = new()
+    {
+            new BillCardModel
+        {
+            TransactionDate = "2024-12-01",
+            PlateNo = "34 AB 123",
+            TransactionNumber = 1001,
+            TransactionStatus = "Tamamlandı",
+            VehicleID = "SN10052208148547",
+            TotalKW = 45,
+            TotalAmount = 150,
+            PaymentCardID = "**** 5001",
+            PaymentCardName = "Visa"
+        },
+        new BillCardModel
+        {
+            TransactionDate = "2024-12-02",
+            PlateNo = "02 XY 456",
+            TransactionNumber = 1002,
+            TransactionStatus = "İptal",
+            VehicleID = "SN980052208148543",
+            TotalKW = 60,
+            TotalAmount = 200,
+            PaymentCardID = "**** 3456",
+            PaymentCardName = "Master"
+        },
+      
+    };
+
+
+}

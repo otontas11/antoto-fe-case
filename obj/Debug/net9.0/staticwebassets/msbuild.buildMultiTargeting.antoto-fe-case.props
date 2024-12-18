@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/antoto-fe-case.props" />
+</Project>
