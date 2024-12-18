@@ -1,3 +1,25 @@
 <div class="date-filter-list">
-     
+    <div class="date-list d-flex">
+        <div class="mr-1 ">
+          <FilterDropdown Items="@dropdownDateItems"/> 
+        </div>
+
+        <div class=" ">
+          <FilterDropdown Items="@dropdownDateTypeItems"/> 
+        </div>
+
+        <div class="">
+            <div class=" btn-arrow-icon">
+                <i class="bi bi-box-arrow-in-up-right"></i>
+            </div>
+        </div>
+  </div>
+    
 </div>
+
+@code {
+    private List<string> dropdownDateItems = new List<string> { "Son 7 Gün", "Son 15 Gün", "Son 1 Ay" };
+    private List<string> dropdownDateTypeItems = new List<string> { "Tarihe Göre Sırala", "Tüketime Göre Sırala" };
+
+        //Tarihe Göre Sırala, Tüketime Göre Sırala
+}

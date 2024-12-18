@@ -10,3 +10,7 @@
 .orange-color .bi-three-dots[b-t2ldwp2q6q] {
     color: rgb(236, 24, 24) !important;
 }
+
+.billl-card[b-t2ldwp2q6q] {
+    border-radius: 10px; /* Adjust the radius value as needed */
+  }

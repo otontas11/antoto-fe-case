@@ -1,24 +1,25 @@
 ﻿@page "/"
 
-<PageTitle>Home</PageTitle>
-
-<Accordion>
+<div class="my-2"
+  <Accordion>
     <BodyContent>
       <ChargeSlider ChargeCards="@chargeCardData" />
     </BodyContent>
-</Accordion>
+  </Accordion>
+</div>
 
-<DateFilterList />
+<div class="my-2">
+    <DateFilterList />
+</div>
 
-@foreach(var item in billCardData){
-<BillCard Item="@item"/>
-}
+<div class="mb-4">
+    @foreach(var item in billCardData){
+    <BillCard Item="@item"/>
+    }
+</div>
 
 
-@code {
-    private string textInput = "Başlangıç metni"; 
-    private List<string> optionItems = new() { "Option 1", "Option 2", "Option 3" };
- 
+@code { 
     private List<ChargeCardModel> chargeCardData = new()
     {
         new ChargeCardModel { Icon = "bi bi-ev-station-fill", Title = "Ortalama Şarj Sıklığı", SubTitle = "5/Hafta" },

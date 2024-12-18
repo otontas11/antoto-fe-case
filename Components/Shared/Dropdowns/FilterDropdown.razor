@@ -18,12 +18,15 @@
  
 @code {
     private string selectedItem;
-
-    private List<string> Items = new List<string> { "Son 7 Gün", "Son 15 Gün","Son 1 Ay"};
+    
+    [Parameter] public List<string> Items { get; set; } = new List<string>();
 
     protected override void OnInitialized()
     {
-        selectedItem = Items.FirstOrDefault();
+        if (Items.Any())
+        {
+            selectedItem = Items.First();
+        }
     }
 
     private void OnItemSelected(string item)

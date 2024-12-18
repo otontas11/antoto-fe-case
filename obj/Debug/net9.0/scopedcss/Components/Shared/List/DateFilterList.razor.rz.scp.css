@@ -1,4 +1,4 @@
-.btn-arrow-icon {
+.btn-arrow-icon[b-j1otyq7yyb] {
     padding: 3px 14px;
     background-color: #FF5515;
     color: #FF5515;
@@ -11,13 +11,13 @@
     align-items: center;
 }
 
-.btn-arrow-icon i {
+.btn-arrow-icon i[b-j1otyq7yyb] {
     color: white;
     font-weight: bolder;
     font-size: 20px;
 }
 
-.date-list {
+.date-list[b-j1otyq7yyb] {
     display: flex;
     justify-content: space-between;
 }

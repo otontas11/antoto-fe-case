@@ -44,14 +44,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Sb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/oktaytontas/Documents/antoto/antoto-fe-case/Components/Shared/Footer.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9TaGFyZWQvRm9vdGVyLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/oktaytontas/Documents/antoto/antoto-fe-case/Components/Shared/MyButton.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9TaGFyZWQvTXlCdXR0b24ucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
 [/Users/oktaytontas/Documents/antoto/antoto-fe-case/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9fSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -59,10 +51,6 @@ build_metadata.AdditionalFiles.CssScope =
 [/Users/oktaytontas/Documents/antoto/antoto-fe-case/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-bx2j4hpq68
-
-[/Users/oktaytontas/Documents/antoto/antoto-fe-case/Components/Layout/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTmF2TWVudS5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = b-3i4xycgdis
 
 [/Users/oktaytontas/Documents/antoto/antoto-fe-case/Components/Shared/Accordions/Accordion.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9TaGFyZWQvQWNjb3JkaW9ucy9BY2NvcmRpb24ucmF6b3I=

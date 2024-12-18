@@ -6,6 +6,7 @@
     background-color: #002E2D;
     z-index: 1000;
     box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.2);
+    border-radius: 24px 24px 0 0;
   }
   
   .navbar-inner {
@@ -19,6 +20,7 @@
     margin: 0;
     padding: 0;
     list-style: none;
+
   }
   
   .footer-items {
