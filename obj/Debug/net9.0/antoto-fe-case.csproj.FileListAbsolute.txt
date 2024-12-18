@@ -73,8 +73,6 @@
 /Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/5tpu0uoah8-h1s4sie4z3.gz
 /Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/2yzox1x6qz-63fj8s7r0e.gz
 /Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/gz7qyzh351-0j3bgjxly4.gz
-/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/hoe3y16v3e-ob7s2mg0hi.gz
-/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/e3pjtwz41b-ob7s2mg0hi.gz
 /Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/staticwebassets.build.json
 /Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/staticwebassets.development.json
 /Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/staticwebassets.build.endpoints.json
@@ -89,3 +87,5 @@
 /Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/antoto-fe-case.pdb
 /Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/antoto-fe-case.genruntimeconfig.cache
 /Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/ref/antoto-fe-case.dll
+/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/hoe3y16v3e-8jvxw0h76u.gz
+/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/e3pjtwz41b-8jvxw0h76u.gz

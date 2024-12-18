@@ -1,4 +1,4 @@
-// Constants/ChargeCardConstants.cs
+
 public static class ChargeCardConstants
 {
     public static readonly List<ChargeCardModel> ChargeCardData = new()
