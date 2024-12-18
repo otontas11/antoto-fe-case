@@ -1,31 +1,49 @@
 @font-face {
-    font-family: 'AmsiPro-Regular';
-    src: url('/fonts/AmsiPro-Regular.ttf') format('truetype');
+  font-family: "AmsiPro-Regular";
+  src: url("/fonts/AmsiPro-Regular.ttf") format("truetype");
 }
 
 @font-face {
-    font-family: 'AmsiPro-Black';
-    src: url('/fonts/AmsiPro-Black.ttf') format('truetype');
+  font-family: "AmsiPro-Black";
+  src: url("/fonts/AmsiPro-Black.ttf") format("truetype");
 }
 
 body {
-    font-family: 'AmsiPro-Regular', sans-serif;
+  font-family: "AmsiPro-Regular", sans-serif;
 }
 
 .charge-card.swiper-slide {
-    width: 200px !important;
+  width: 200px !important;
 }
 
-h1, h2, h3, h4, h5, h6, .black {
-  font-family: 'AmsiPro-Black', sans-serif;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.black {
+  font-family: "AmsiPro-Black", sans-serif;
 }
 
 .orange-color {
-  color: #FF5515;
+  color: #fe5715 !important;
 }
- 
-.white-color {
-  color: #fff;
+
+.gray--text {
+  color: #eaeaea75 !important;
+}
+
+.gray--bg {
+  background-color: #eaeaea75 !important;
+}
+
+.orange-text {
+  color: #fe5715 !important;
+}
+
+.orange-bg {
+  color: #fe5715 !important;
 }
 
 .w-full {
@@ -39,9 +57,7 @@ h1, h2, h3, h4, h5, h6, .black {
 .mb-4 {
   margin-bottom: 16px;
 }
- 
+
 .mr-1 {
   margin-right: 4px;
 }
-
- 

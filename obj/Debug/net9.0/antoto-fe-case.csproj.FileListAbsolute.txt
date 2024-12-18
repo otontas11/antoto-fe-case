@@ -24,8 +24,8 @@
 /Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/scopedcss/bundle/antoto-fe-case.styles.css
 /Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/scopedcss/projectbundle/antoto-fe-case.bundle.scp.css
 /Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/axc3vbt0k7-khy4lop6wu.gz
-/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/072i54pno5-oyd4ne2711.gz
-/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/pare0rzs7m-20zpz3q9ok.gz
+/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/072i54pno5-gbu0lrrmum.gz
+/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/pare0rzs7m-3h2zhnp5mr.gz
 /Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/c78lts2pj8-ufavdyme1y.gz
 /Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/pcadd6ay9p-gu43dlfpng.gz
 /Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/3zxbqcuv76-ymofew1899.gz
@@ -73,8 +73,8 @@
 /Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/5tpu0uoah8-h1s4sie4z3.gz
 /Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/2yzox1x6qz-63fj8s7r0e.gz
 /Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/gz7qyzh351-0j3bgjxly4.gz
-/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/hoe3y16v3e-zfvp3c1kvo.gz
-/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/e3pjtwz41b-zfvp3c1kvo.gz
+/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/hoe3y16v3e-ob7s2mg0hi.gz
+/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/e3pjtwz41b-ob7s2mg0hi.gz
 /Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/staticwebassets.build.json
 /Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/staticwebassets.development.json
 /Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/staticwebassets.build.endpoints.json
