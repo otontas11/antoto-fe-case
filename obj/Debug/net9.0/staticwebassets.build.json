@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VXRQmzpOqipqi+3VljS8nzeCHvAm+4ERGxi8dmfsn0Q=",
+  "Hash": "fC8yq4u+GigaGaVYGJqu4x7BNLHsnF5I8L7DZW/0wsc=",
   "Source": "antoto-fe-case",
   "BasePath": "_content/antoto-fe-case",
   "Mode": "Default",
@@ -521,12 +521,12 @@
       "OriginalItemSpec": "/Users/oktaytontas/Documents/antoto/antoto-fe-case/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Identity": "/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/e3pjtwz41b-1lihaup2jj.gz",
+      "Identity": "/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/e3pjtwz41b-amrvhufc41.gz",
       "SourceId": "antoto-fe-case",
       "SourceType": "Computed",
       "ContentRoot": "/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/antoto-fe-case",
-      "RelativePath": "antoto-fe-case#[.{fingerprint=1lihaup2jj}]!.bundle.scp.css.gz",
+      "RelativePath": "antoto-fe-case#[.{fingerprint=amrvhufc41}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -535,8 +535,8 @@
       "RelatedAsset": "/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/scopedcss/projectbundle/antoto-fe-case.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "27g4wn3jw0",
-      "Integrity": "Agk4NyVEayeXkHLqRgqK+hLc+iCd01OueeAu8Wt3AGA=",
+      "Fingerprint": "laz8285hkt",
+      "Integrity": "U6kr79Zk4660jC6lerRfPYCccIW1ckMfRa8cPkreHBo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/scopedcss/projectbundle/antoto-fe-case.bundle.scp.css"
@@ -605,12 +605,12 @@
       "OriginalItemSpec": "/Users/oktaytontas/Documents/antoto/antoto-fe-case/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Identity": "/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/hoe3y16v3e-1lihaup2jj.gz",
+      "Identity": "/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/hoe3y16v3e-amrvhufc41.gz",
       "SourceId": "antoto-fe-case",
       "SourceType": "Computed",
       "ContentRoot": "/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/antoto-fe-case",
-      "RelativePath": "antoto-fe-case#[.{fingerprint=1lihaup2jj}]?.styles.css.gz",
+      "RelativePath": "antoto-fe-case#[.{fingerprint=amrvhufc41}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -619,8 +619,8 @@
       "RelatedAsset": "/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/scopedcss/bundle/antoto-fe-case.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "27g4wn3jw0",
-      "Integrity": "Agk4NyVEayeXkHLqRgqK+hLc+iCd01OueeAu8Wt3AGA=",
+      "Fingerprint": "laz8285hkt",
+      "Integrity": "U6kr79Zk4660jC6lerRfPYCccIW1ckMfRa8cPkreHBo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/scopedcss/bundle/antoto-fe-case.styles.css"
@@ -1123,8 +1123,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "1lihaup2jj",
-      "Integrity": "VQrA3SR9ymUBpXKTFlUb2sCoFUfjP4FfZfooS7oMwnY=",
+      "Fingerprint": "amrvhufc41",
+      "Integrity": "bonh9j58Q+epuq1+1o7VNcAMjvJhFuR9ilF8mYHJemU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/scopedcss/bundle/antoto-fe-case.styles.css"
@@ -1144,8 +1144,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "1lihaup2jj",
-      "Integrity": "VQrA3SR9ymUBpXKTFlUb2sCoFUfjP4FfZfooS7oMwnY=",
+      "Fingerprint": "amrvhufc41",
+      "Integrity": "bonh9j58Q+epuq1+1o7VNcAMjvJhFuR9ilF8mYHJemU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/scopedcss/projectbundle/antoto-fe-case.bundle.scp.css"
@@ -2266,13 +2266,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "antoto-fe-case.1lihaup2jj.bundle.scp.css",
-      "AssetFile": "/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/e3pjtwz41b-1lihaup2jj.gz",
+      "Route": "antoto-fe-case.amrvhufc41.bundle.scp.css",
+      "AssetFile": "/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/e3pjtwz41b-amrvhufc41.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000352733686"
+          "Quality": "0.000321646832"
         }
       ],
       "ResponseHeaders": [
@@ -2282,15 +2282,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2834"
+          "Value": "3108"
         },
         {
           "Name": "ETag",
-          "Value": "\"Agk4NyVEayeXkHLqRgqK+hLc+iCd01OueeAu8Wt3AGA=\""
+          "Value": "\"U6kr79Zk4660jC6lerRfPYCccIW1ckMfRa8cPkreHBo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 10:43:42 GMT"
+          "Value": "Wed, 18 Dec 2024 11:59:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2310,13 +2310,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"VQrA3SR9ymUBpXKTFlUb2sCoFUfjP4FfZfooS7oMwnY=\""
+          "Value": "W/\"bonh9j58Q+epuq1+1o7VNcAMjvJhFuR9ilF8mYHJemU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1lihaup2jj"
+          "Value": "amrvhufc41"
         },
         {
           "Name": "label",
@@ -2324,12 +2324,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-VQrA3SR9ymUBpXKTFlUb2sCoFUfjP4FfZfooS7oMwnY="
+          "Value": "sha256-bonh9j58Q+epuq1+1o7VNcAMjvJhFuR9ilF8mYHJemU="
         }
       ]
     },
     {
-      "Route": "antoto-fe-case.1lihaup2jj.bundle.scp.css",
+      "Route": "antoto-fe-case.amrvhufc41.bundle.scp.css",
       "AssetFile": "/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/scopedcss/projectbundle/antoto-fe-case.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2339,7 +2339,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10519"
+          "Value": "11705"
         },
         {
           "Name": "Content-Type",
@@ -2347,11 +2347,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VQrA3SR9ymUBpXKTFlUb2sCoFUfjP4FfZfooS7oMwnY=\""
+          "Value": "\"bonh9j58Q+epuq1+1o7VNcAMjvJhFuR9ilF8mYHJemU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 10:43:42 GMT"
+          "Value": "Wed, 18 Dec 2024 11:59:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2361,7 +2361,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1lihaup2jj"
+          "Value": "amrvhufc41"
         },
         {
           "Name": "label",
@@ -2369,13 +2369,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-VQrA3SR9ymUBpXKTFlUb2sCoFUfjP4FfZfooS7oMwnY="
+          "Value": "sha256-bonh9j58Q+epuq1+1o7VNcAMjvJhFuR9ilF8mYHJemU="
         }
       ]
     },
     {
-      "Route": "antoto-fe-case.1lihaup2jj.bundle.scp.css.gz",
-      "AssetFile": "/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/e3pjtwz41b-1lihaup2jj.gz",
+      "Route": "antoto-fe-case.amrvhufc41.bundle.scp.css.gz",
+      "AssetFile": "/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/e3pjtwz41b-amrvhufc41.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2384,7 +2384,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2834"
+          "Value": "3108"
         },
         {
           "Name": "Content-Type",
@@ -2392,11 +2392,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Agk4NyVEayeXkHLqRgqK+hLc+iCd01OueeAu8Wt3AGA=\""
+          "Value": "\"U6kr79Zk4660jC6lerRfPYCccIW1ckMfRa8cPkreHBo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 10:43:42 GMT"
+          "Value": "Wed, 18 Dec 2024 11:59:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2414,7 +2414,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1lihaup2jj"
+          "Value": "amrvhufc41"
         },
         {
           "Name": "label",
@@ -2422,18 +2422,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Agk4NyVEayeXkHLqRgqK+hLc+iCd01OueeAu8Wt3AGA="
+          "Value": "sha256-U6kr79Zk4660jC6lerRfPYCccIW1ckMfRa8cPkreHBo="
         }
       ]
     },
     {
-      "Route": "antoto-fe-case.1lihaup2jj.styles.css",
-      "AssetFile": "/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/hoe3y16v3e-1lihaup2jj.gz",
+      "Route": "antoto-fe-case.amrvhufc41.styles.css",
+      "AssetFile": "/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/hoe3y16v3e-amrvhufc41.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000352733686"
+          "Quality": "0.000321646832"
         }
       ],
       "ResponseHeaders": [
@@ -2443,15 +2443,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2834"
+          "Value": "3108"
         },
         {
           "Name": "ETag",
-          "Value": "\"Agk4NyVEayeXkHLqRgqK+hLc+iCd01OueeAu8Wt3AGA=\""
+          "Value": "\"U6kr79Zk4660jC6lerRfPYCccIW1ckMfRa8cPkreHBo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 10:43:42 GMT"
+          "Value": "Wed, 18 Dec 2024 11:59:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2471,13 +2471,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"VQrA3SR9ymUBpXKTFlUb2sCoFUfjP4FfZfooS7oMwnY=\""
+          "Value": "W/\"bonh9j58Q+epuq1+1o7VNcAMjvJhFuR9ilF8mYHJemU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1lihaup2jj"
+          "Value": "amrvhufc41"
         },
         {
           "Name": "label",
@@ -2485,12 +2485,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-VQrA3SR9ymUBpXKTFlUb2sCoFUfjP4FfZfooS7oMwnY="
+          "Value": "sha256-bonh9j58Q+epuq1+1o7VNcAMjvJhFuR9ilF8mYHJemU="
         }
       ]
     },
     {
-      "Route": "antoto-fe-case.1lihaup2jj.styles.css",
+      "Route": "antoto-fe-case.amrvhufc41.styles.css",
       "AssetFile": "/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/scopedcss/bundle/antoto-fe-case.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2500,7 +2500,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10519"
+          "Value": "11705"
         },
         {
           "Name": "Content-Type",
@@ -2508,11 +2508,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VQrA3SR9ymUBpXKTFlUb2sCoFUfjP4FfZfooS7oMwnY=\""
+          "Value": "\"bonh9j58Q+epuq1+1o7VNcAMjvJhFuR9ilF8mYHJemU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 10:43:42 GMT"
+          "Value": "Wed, 18 Dec 2024 11:59:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2522,7 +2522,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1lihaup2jj"
+          "Value": "amrvhufc41"
         },
         {
           "Name": "label",
@@ -2530,13 +2530,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-VQrA3SR9ymUBpXKTFlUb2sCoFUfjP4FfZfooS7oMwnY="
+          "Value": "sha256-bonh9j58Q+epuq1+1o7VNcAMjvJhFuR9ilF8mYHJemU="
         }
       ]
     },
     {
-      "Route": "antoto-fe-case.1lihaup2jj.styles.css.gz",
-      "AssetFile": "/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/hoe3y16v3e-1lihaup2jj.gz",
+      "Route": "antoto-fe-case.amrvhufc41.styles.css.gz",
+      "AssetFile": "/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/hoe3y16v3e-amrvhufc41.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2545,7 +2545,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2834"
+          "Value": "3108"
         },
         {
           "Name": "Content-Type",
@@ -2553,11 +2553,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Agk4NyVEayeXkHLqRgqK+hLc+iCd01OueeAu8Wt3AGA=\""
+          "Value": "\"U6kr79Zk4660jC6lerRfPYCccIW1ckMfRa8cPkreHBo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 10:43:42 GMT"
+          "Value": "Wed, 18 Dec 2024 11:59:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2575,7 +2575,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1lihaup2jj"
+          "Value": "amrvhufc41"
         },
         {
           "Name": "label",
@@ -2583,18 +2583,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Agk4NyVEayeXkHLqRgqK+hLc+iCd01OueeAu8Wt3AGA="
+          "Value": "sha256-U6kr79Zk4660jC6lerRfPYCccIW1ckMfRa8cPkreHBo="
         }
       ]
     },
     {
       "Route": "antoto-fe-case.bundle.scp.css",
-      "AssetFile": "/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/e3pjtwz41b-1lihaup2jj.gz",
+      "AssetFile": "/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/e3pjtwz41b-amrvhufc41.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000352733686"
+          "Quality": "0.000321646832"
         }
       ],
       "ResponseHeaders": [
@@ -2604,15 +2604,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2834"
+          "Value": "3108"
         },
         {
           "Name": "ETag",
-          "Value": "\"Agk4NyVEayeXkHLqRgqK+hLc+iCd01OueeAu8Wt3AGA=\""
+          "Value": "\"U6kr79Zk4660jC6lerRfPYCccIW1ckMfRa8cPkreHBo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 10:43:42 GMT"
+          "Value": "Wed, 18 Dec 2024 11:59:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2632,13 +2632,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"VQrA3SR9ymUBpXKTFlUb2sCoFUfjP4FfZfooS7oMwnY=\""
+          "Value": "W/\"bonh9j58Q+epuq1+1o7VNcAMjvJhFuR9ilF8mYHJemU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-VQrA3SR9ymUBpXKTFlUb2sCoFUfjP4FfZfooS7oMwnY="
+          "Value": "sha256-bonh9j58Q+epuq1+1o7VNcAMjvJhFuR9ilF8mYHJemU="
         }
       ]
     },
@@ -2653,7 +2653,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10519"
+          "Value": "11705"
         },
         {
           "Name": "Content-Type",
@@ -2661,11 +2661,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VQrA3SR9ymUBpXKTFlUb2sCoFUfjP4FfZfooS7oMwnY=\""
+          "Value": "\"bonh9j58Q+epuq1+1o7VNcAMjvJhFuR9ilF8mYHJemU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 10:43:42 GMT"
+          "Value": "Wed, 18 Dec 2024 11:59:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2675,13 +2675,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-VQrA3SR9ymUBpXKTFlUb2sCoFUfjP4FfZfooS7oMwnY="
+          "Value": "sha256-bonh9j58Q+epuq1+1o7VNcAMjvJhFuR9ilF8mYHJemU="
         }
       ]
     },
     {
       "Route": "antoto-fe-case.bundle.scp.css.gz",
-      "AssetFile": "/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/e3pjtwz41b-1lihaup2jj.gz",
+      "AssetFile": "/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/e3pjtwz41b-amrvhufc41.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2690,7 +2690,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2834"
+          "Value": "3108"
         },
         {
           "Name": "Content-Type",
@@ -2698,11 +2698,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Agk4NyVEayeXkHLqRgqK+hLc+iCd01OueeAu8Wt3AGA=\""
+          "Value": "\"U6kr79Zk4660jC6lerRfPYCccIW1ckMfRa8cPkreHBo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 10:43:42 GMT"
+          "Value": "Wed, 18 Dec 2024 11:59:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2720,18 +2720,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Agk4NyVEayeXkHLqRgqK+hLc+iCd01OueeAu8Wt3AGA="
+          "Value": "sha256-U6kr79Zk4660jC6lerRfPYCccIW1ckMfRa8cPkreHBo="
         }
       ]
     },
     {
       "Route": "antoto-fe-case.styles.css",
-      "AssetFile": "/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/hoe3y16v3e-1lihaup2jj.gz",
+      "AssetFile": "/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/hoe3y16v3e-amrvhufc41.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000352733686"
+          "Quality": "0.000321646832"
         }
       ],
       "ResponseHeaders": [
@@ -2741,15 +2741,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2834"
+          "Value": "3108"
         },
         {
           "Name": "ETag",
-          "Value": "\"Agk4NyVEayeXkHLqRgqK+hLc+iCd01OueeAu8Wt3AGA=\""
+          "Value": "\"U6kr79Zk4660jC6lerRfPYCccIW1ckMfRa8cPkreHBo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 10:43:42 GMT"
+          "Value": "Wed, 18 Dec 2024 11:59:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2769,13 +2769,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"VQrA3SR9ymUBpXKTFlUb2sCoFUfjP4FfZfooS7oMwnY=\""
+          "Value": "W/\"bonh9j58Q+epuq1+1o7VNcAMjvJhFuR9ilF8mYHJemU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-VQrA3SR9ymUBpXKTFlUb2sCoFUfjP4FfZfooS7oMwnY="
+          "Value": "sha256-bonh9j58Q+epuq1+1o7VNcAMjvJhFuR9ilF8mYHJemU="
         }
       ]
     },
@@ -2790,7 +2790,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10519"
+          "Value": "11705"
         },
         {
           "Name": "Content-Type",
@@ -2798,11 +2798,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VQrA3SR9ymUBpXKTFlUb2sCoFUfjP4FfZfooS7oMwnY=\""
+          "Value": "\"bonh9j58Q+epuq1+1o7VNcAMjvJhFuR9ilF8mYHJemU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 10:43:42 GMT"
+          "Value": "Wed, 18 Dec 2024 11:59:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2812,13 +2812,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-VQrA3SR9ymUBpXKTFlUb2sCoFUfjP4FfZfooS7oMwnY="
+          "Value": "sha256-bonh9j58Q+epuq1+1o7VNcAMjvJhFuR9ilF8mYHJemU="
         }
       ]
     },
     {
       "Route": "antoto-fe-case.styles.css.gz",
-      "AssetFile": "/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/hoe3y16v3e-1lihaup2jj.gz",
+      "AssetFile": "/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/compressed/hoe3y16v3e-amrvhufc41.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2827,7 +2827,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2834"
+          "Value": "3108"
         },
         {
           "Name": "Content-Type",
@@ -2835,11 +2835,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Agk4NyVEayeXkHLqRgqK+hLc+iCd01OueeAu8Wt3AGA=\""
+          "Value": "\"U6kr79Zk4660jC6lerRfPYCccIW1ckMfRa8cPkreHBo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 10:43:42 GMT"
+          "Value": "Wed, 18 Dec 2024 11:59:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2857,7 +2857,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Agk4NyVEayeXkHLqRgqK+hLc+iCd01OueeAu8Wt3AGA="
+          "Value": "sha256-U6kr79Zk4660jC6lerRfPYCccIW1ckMfRa8cPkreHBo="
         }
       ]
     },

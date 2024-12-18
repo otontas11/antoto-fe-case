@@ -1,23 +1,26 @@
+@rendermode InteractiveServer
+
 <div class="dropdown">
     <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">
         @selectedItem
     </button>
     <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-        @foreach(var item in Items){
+        @foreach (var item in Items)
+        {
             <li>
-                <button class="dropdown-item" @onclick="()=>OnItemSelected(item)">
+                <button class="dropdown-item" @onclick="() => OnItemSelected(item)">
                     @item
                 </button>
             </li>
         }
     </ul>
 </div>
-
+ 
 @code {
-    private List<string> Items = new List<string> { "Action", "Another action", "Something else here" };
     private string selectedItem;
 
-    // mount oldugunda
+    private List<string> Items = new List<string> { "Son 7 Gün", "Son 15 Gün","Son 1 Ay"};
+
     protected override void OnInitialized()
     {
         selectedItem = Items.FirstOrDefault();
@@ -27,4 +30,5 @@
     {
         selectedItem = item;
     }
+ 
 }

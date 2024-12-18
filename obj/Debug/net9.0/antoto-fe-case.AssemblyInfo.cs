@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("antoto-fe-case")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+078086dbf8fae20d1d5c4b30e0f30b76ad204aec")]
 [assembly: System.Reflection.AssemblyProductAttribute("antoto-fe-case")]
 [assembly: System.Reflection.AssemblyTitleAttribute("antoto-fe-case")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
