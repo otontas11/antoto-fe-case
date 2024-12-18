@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "/Users/oktaytontas/Documents/antoto/antoto-fe-case/obj/Debug/net9.0/scopedcss/projectbundle/antoto-fe-case.bundle.scp.css",
-      "PackagePath": "staticwebassets/antoto-fe-case.pumx2t1uj2.bundle.scp.css"
+      "PackagePath": "staticwebassets/antoto-fe-case.zfvp3c1kvo.bundle.scp.css"
     },
     {
       "Id": "/Users/oktaytontas/Documents/antoto/antoto-fe-case/wwwroot/Images/logo.svg",
@@ -35,6 +35,10 @@
     {
       "Id": "/Users/oktaytontas/Documents/antoto/antoto-fe-case/wwwroot/js/footer.js",
       "PackagePath": "staticwebassets/js/footer.js"
+    },
+    {
+      "Id": "/Users/oktaytontas/Documents/antoto/antoto-fe-case/wwwroot/js/swiper-init.js",
+      "PackagePath": "staticwebassets/js/swiper-init.js"
     },
     {
       "Id": "/Users/oktaytontas/Documents/antoto/antoto-fe-case/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
@@ -211,10 +215,6 @@
     {
       "Id": "/Users/oktaytontas/Documents/antoto/antoto-fe-case/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
-    },
-    {
-      "Id": "/Users/oktaytontas/Documents/antoto/antoto-fe-case/wwwroot/swiper-init.js",
-      "PackagePath": "staticwebassets/swiper-init.js"
     },
     {
       "Id": "obj/Debug/net9.0/staticwebassets/msbuild.antoto-fe-case.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

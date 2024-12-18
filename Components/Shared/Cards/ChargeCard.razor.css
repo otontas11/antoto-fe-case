@@ -1,20 +1,20 @@
 .charge-card {
-    background-color: #F0F0F0;
-    margin-right: 12px;
+  background-color: #f0f0f0;
+  margin-right: 12px;
 }
 
 .charge-card .card-body {
-    display: flex !important;
-    justify-content: center !important;
-    align-items: center !important;
-    flex-direction: column !important; 
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  flex-direction: column !important;
 }
 
 .bi-ev-station-fill {
-    font-size: 36px;
-    color: gray;
+  font-size: 36px;
+  color: gray;
 }
 
 .slider-slide {
-    width: 150px !important;
+  width: 150px !important;
 }

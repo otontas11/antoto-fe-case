@@ -3,9 +3,9 @@
 }
 
 .line-toggle[b-s5f629g5it] {
-  height: 5px;         
-  width: 100%;         
-  max-width: 60px;    
+  height: 5px;
+  width: 100%;
+  max-width: 60px;
   background-color: rgb(118, 115, 115);
   border-radius: 10px;
 }
@@ -14,20 +14,18 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-
 }
 .accordion-button[b-s5f629g5it]::after {
   display: none;
 }
- 
 
 .accordion-button:focus[b-s5f629g5it],
 .accordion-button:active[b-s5f629g5it] {
-    outline: none;          
-    box-shadow: none;      
+  outline: none;
+  box-shadow: none;
 }
 
-.accordion-button:not(.collapsed)[b-s5f629g5it], .accordion-button.collapsed[b-s5f629g5it] {
-    background-color: rgb(233, 233, 233);
+.accordion-button:not(.collapsed)[b-s5f629g5it],
+.accordion-button.collapsed[b-s5f629g5it] {
+  background-color: rgb(233, 233, 233);
 }
- 

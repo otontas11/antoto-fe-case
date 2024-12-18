@@ -3,9 +3,9 @@
 }
 
 .line-toggle {
-  height: 5px;         
-  width: 100%;         
-  max-width: 60px;    
+  height: 5px;
+  width: 100%;
+  max-width: 60px;
   background-color: rgb(118, 115, 115);
   border-radius: 10px;
 }
@@ -14,20 +14,18 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-
 }
 .accordion-button::after {
   display: none;
 }
- 
 
 .accordion-button:focus,
 .accordion-button:active {
-    outline: none;          
-    box-shadow: none;      
+  outline: none;
+  box-shadow: none;
 }
 
-.accordion-button:not(.collapsed), .accordion-button.collapsed {
-    background-color: rgb(233, 233, 233);
+.accordion-button:not(.collapsed),
+.accordion-button.collapsed {
+  background-color: rgb(233, 233, 233);
 }
- 

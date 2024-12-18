@@ -1,23 +1,23 @@
 .btn-arrow-icon[b-j1otyq7yyb] {
-    padding: 3px 14px;
-    background-color: #FF5515;
-    color: #FF5515;
-    border-color: #FF5515;
-    border-radius: 8px;
-    width: 40px;
-    height: 38px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  padding: 3px 14px;
+  background-color: #ff5515;
+  color: #ff5515;
+  border-color: #ff5515;
+  border-radius: 8px;
+  width: 40px;
+  height: 38px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .btn-arrow-icon i[b-j1otyq7yyb] {
-    color: white;
-    font-weight: bolder;
-    font-size: 20px;
+  color: white;
+  font-weight: bolder;
+  font-size: 20px;
 }
 
 .date-list[b-j1otyq7yyb] {
-    display: flex;
-    justify-content: space-between;
+  display: flex;
+  justify-content: space-between;
 }

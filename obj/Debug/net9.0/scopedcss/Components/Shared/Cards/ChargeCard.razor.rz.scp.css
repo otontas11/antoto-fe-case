@@ -1,20 +1,20 @@
 .charge-card[b-roj7aeofpa] {
-    background-color: #F0F0F0;
-    margin-right: 12px;
+  background-color: #f0f0f0;
+  margin-right: 12px;
 }
 
 .charge-card .card-body[b-roj7aeofpa] {
-    display: flex !important;
-    justify-content: center !important;
-    align-items: center !important;
-    flex-direction: column !important; 
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  flex-direction: column !important;
 }
 
 .bi-ev-station-fill[b-roj7aeofpa] {
-    font-size: 36px;
-    color: gray;
+  font-size: 36px;
+  color: gray;
 }
 
 .slider-slide[b-roj7aeofpa] {
-    width: 150px !important;
+  width: 150px !important;
 }

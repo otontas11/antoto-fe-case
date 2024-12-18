@@ -3,7 +3,6 @@
   overflow: hidden;
 }
 
-
 .swiper-wrapper[b-wmpsej03ix] {
   display: flex;
   flex-wrap: nowrap;
@@ -13,15 +12,14 @@
 .swiper-slide[b-wmpsej03ix] {
   flex: 0 0 auto;
 }
- 
 
 @media screen and (max-width: 768px) {
   .slide-content[b-wmpsej03ix] {
-      margin: 0;
+    margin: 0;
   }
 
   .swiper-navBtn[b-wmpsej03ix] {
-      display: none !important;
+    display: none !important;
   }
 
   .swiper-wrapper[b-wmpsej03ix] {
@@ -29,8 +27,6 @@
     flex-wrap: nowrap;
     width: auto;
   }
-  
-
 }
 
 .swiper-button-next[style*="pointer-events: none"][b-wmpsej03ix],

@@ -3,7 +3,6 @@
   overflow: hidden;
 }
 
-
 .swiper-wrapper {
   display: flex;
   flex-wrap: nowrap;
@@ -13,15 +12,14 @@
 .swiper-slide {
   flex: 0 0 auto;
 }
- 
 
 @media screen and (max-width: 768px) {
   .slide-content {
-      margin: 0;
+    margin: 0;
   }
 
   .swiper-navBtn {
-      display: none !important;
+    display: none !important;
   }
 
   .swiper-wrapper {
@@ -29,8 +27,6 @@
     flex-wrap: nowrap;
     width: auto;
   }
-  
-
 }
 
 .swiper-button-next[style*="pointer-events: none"],

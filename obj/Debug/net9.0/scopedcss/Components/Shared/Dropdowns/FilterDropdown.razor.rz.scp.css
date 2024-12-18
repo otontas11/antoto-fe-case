@@ -1,12 +1,12 @@
-.dropdown .btn[b-z0ysabx2d5]{
-    width: 100%;
-    background-color: #F0F0F0;
-    border-color: #F0F0F0;
-    color: black;
-    font-weight: bold;
+.dropdown .btn[b-z0ysabx2d5] {
+  width: 100%;
+  background-color: #f0f0f0;
+  border-color: #f0f0f0;
+  color: black;
+  font-weight: bold;
 }
 
 .dropdown-menu.show[b-z0ysabx2d5] {
-width: 100%;
-background-color: #F0F0F0;
+  width: 100%;
+  background-color: #f0f0f0;
 }

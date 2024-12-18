@@ -3,20 +3,20 @@
     <tr>
       <th scope="col">
         <div class="table-header">
-            <div class="title black">TARİH</div>
-            <div class="sub-title">@Item.TransactionDate</div>
-        </div>
-      </th>
-      <th scope="col">
-         <div class="table-header">
-            <div class="title black">PLAKA</div>
-            <div class="sub-title">@Item.PlateNo</div>
+          <div class="title black">TARİH</div>
+          <div class="sub-title">@Item.TransactionDate</div>
         </div>
       </th>
       <th scope="col">
         <div class="table-header">
-            <div class="title black">İŞLEM NO</div>
-            <div class="sub-title">@Item.TransactionNumber</div>
+          <div class="title black">PLAKA</div>
+          <div class="sub-title">@Item.PlateNo</div>
+        </div>
+      </th>
+      <th scope="col">
+        <div class="table-header">
+          <div class="title black">İŞLEM NO</div>
+          <div class="sub-title">@Item.TransactionNumber</div>
         </div>
       </th>
       <th scope="col">
@@ -30,47 +30,47 @@
   <tbody>
     <tr>
       <th colspan="4">
-        <div  class="table-body d-flex justify-content-between">
-            <div class="headers">
-                <div class="left-header black">İŞLEM DURUMU</div>
-                <div class="left-header">@Item.TransactionStatus</div>
-            </div>
+        <div class="table-body d-flex justify-content-between">
+          <div class="headers">
+            <div class="left-header black">İŞLEM DURUMU</div>
+            <div class="left-header">@Item.TransactionStatus</div>
+          </div>
 
-            <div class="sub-header">
-                 <div class="right-header black">CİHAZ ID</div>
-                <div class="right-header">@Item.VehicleID</div>
-            </div>
+          <div class="sub-header">
+            <div class="right-header black">CİHAZ ID</div>
+            <div class="right-header">@Item.VehicleID</div>
+          </div>
         </div>
       </th>
     </tr>
- 
+
 
     <tr>
       <th colspan="4">
-        <div  class="table-body  d-flex justify-content-between">
-            <div class="headers">
-                <div class="left-header black">TOPLAM KW</div>
-                <div class="left-header black">TOPLAM TUTAR</div>
+        <div class="table-body  d-flex justify-content-between">
+          <div class="headers">
+            <div class="left-header black">TOPLAM KW</div>
+            <div class="left-header black">TOPLAM TUTAR</div>
 
-            </div>
+          </div>
 
-            <div class="sub-header">
-                <div class="right-header">@Item.TotalKW KW</div>
-                <div class="right-header">@Item.TotalAmount TL</div>
-            </div>
+          <div class="sub-header">
+            <div class="right-header">@Item.TotalKW KW</div>
+            <div class="right-header">@Item.TotalAmount TL</div>
+          </div>
         </div>
       </th>
     </tr>
- 
+
     <tr>
       <th colspan="4">
-        <div  class="table-body">
-            <div class="headers d-flex justify-content-between">
-                <div class="left-header">Ödeme Metodu</div>
-                <div class="right-header">@Item.PaymentCardID
-                    <span class="black">@Item.PaymentCardName</span>
-                </div>
+        <div class="table-body">
+          <div class="headers d-flex justify-content-between">
+            <div class="left-header">Ödeme Metodu</div>
+            <div class="right-header">@Item.PaymentCardID
+              <span class="black">@Item.PaymentCardName</span>
             </div>
+          </div>
 
         </div>
       </th>
@@ -81,7 +81,7 @@
 
 
 @code {
- 
-    [Parameter]
-    public BillCardModel Item { get; set; }
+
+  [Parameter]
+  public BillCardModel Item { get; set; }
 }

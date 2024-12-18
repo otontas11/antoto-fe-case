@@ -1,21 +1,23 @@
 ﻿@page "/"
 
-<div class="my-2"
-  <Accordion>
-    <BodyContent>
-      <ChargeSlider ChargeCards="@chargeCardData" />
-    </BodyContent>
-  </Accordion>
-</div>
+<div class="main-page">
+    <div class="my-2"
+    <Accordion>
+        <BodyContent>
+          <ChargeSlider ChargeCards="@chargeCardData" />
+        </BodyContent>
+    </Accordion>
+    </div>
 
-<div class="my-2">
-    <DateFilterList />
-</div>
+    <div class="my-2">
+        <DateFilterList />
+    </div>
 
-<div class="mb-4">
-    @foreach(var item in billCardData){
-    <BillCard Item="@item"/>
-    }
+    <div class="mb-4">
+        @foreach(var item in billCardData){
+        <BillCard Item="@item"/>
+        }
+    </div>
 </div>
 
 
@@ -61,6 +63,5 @@
         },
       
     };
-
 
 }
